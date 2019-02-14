@@ -6,7 +6,7 @@ body{
  color: white;
  box-shadow: darkgray 3px 3px 5px;
 }
-#park, retrieve{
+#park, #retrieve{
   border: 1px white solid;
 }
 button{
